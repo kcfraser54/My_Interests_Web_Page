@@ -1,0 +1,32 @@
+body {
+  /* Background color for the entire page*/
+  background-color: Tomato; 
+}
+
+.divHeader {
+  /* styling the top header for the page*/
+  border-top-style: ridge;
+  text-align: Center;
+  border-bottom-style: ridge:
+  border-color: SlateGray;
+  border-width: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: rgb(10, 225, 180);
+  
+  
+}
+
+.favoriteThings {
+  color: #8A2CC4;
+  text-align: center;
+}
+
+.otherThings {
+  color: lime; 
+  text-align: center;
+  border: 5px dotted;
+  
+}
+
+
