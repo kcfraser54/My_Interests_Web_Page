@@ -1,0 +1,78 @@
+ <div class="divHeader">
+  
+    <h1> Welcome to Interest Emporium</h1> 
+      <p>
+        <em><h2>Enter If You Dare...</h2></em>
+      </p>
+   </div>
+   <div class="favoriteThings">
+     <h4>Favorite Movie: Lords of Dog Town  
+     <h4>Favorite Book: The Hobbit 
+     <h4>Favorite Hobby: Tailwhipping on my scooter
+     
+       </div>
+       <div class="otherThings">
+       <h5> Other things I like!!!</h5>
+       <em><p>1. Subititles</p>
+         <p><b>2. Mamas' not lettin' their babies be cowboys</p></b>
+       <p><b>3. Bogey Golf</P></b>
+       <p>4. Learning</p></em>
+       </div>
+     <div>
+       <h4> Links to things that I like</h4>
+       <a href="http://www.dukelearntoprogram.com/" target="blank_">Duke Learn to Program</a>
+      <p> <a href="https://www.pulpfiction.com/" target="blank_">Pulp Fiction Stuff</a></p>
+       <p><a href="https://summitatsnoqualmie.com/" target="blank_">The Summit</a></p>
+     </div>
+     
+     <div>
+       <h4>Here is an Awesome Photo!</h4>
+       <p><img src="https://live.staticflickr.com/594/23772900186_279d79cfea_c_d.jpg" width="100%"/></p>
+     </div>
+       
+     <div>
+ 
+<h4>Ingredients for a good quiche!</h4>
+       <ol>
+         <li> eggs</li>
+         <li> Pie crust</li>
+         <li> Heavy Cream </li>
+         <li> Spinach </li>
+         <li> Cheese</li>
+         <li> Bacon</li>
+       </ol>
+     </div>
+       <div>
+         <h4>Cool Super Heroes!</h4>
+         <ul>
+           <li>Mintberry Crunch</li>
+           <li>Tupperware Man</li>
+           <li>Spiderman</li>
+         </ul>
+     </div>
+     <div>
+       <p><b><em><th>Links to cool things!</b></em></th></p>
+       <table>
+         <tr>Go Outside!
+           <td><a href="https://summitatsnoqualmie.com/" target="blank_">The Summit</a>
+             <ul>
+               <li>Biking</li>
+               <li>Skiing</li>
+               <li>Hiking</li>
+             </ul>
+           </td>
+           <td><a href="https://www.gamespot.com/" target= "blank_">Gamespot</a></td>
+           <td><a href="https://bleacherreport.com/" target="blank_">Bleacher Report</a></td>
+         </tr>
+         <tr>Gaming 
+         <td><a href="https://www.evo.com/" target="blank_">Evo</a></td>
+         <td><a href="https://www.gameinformer.com/" target="blank_">Gameinformer</a></td> 
+           <td><a href="https://www.espn.com/" target="blank_">ESPN</a></td></tr>
+       <tr>Sports News </tr>
+         </div>
+         
+     
+         
+         
+  
+  
